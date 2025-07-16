@@ -1,0 +1,9 @@
+--- Employee Summary Report ---
+Total Employees: 4
+Total Payroll: $1,035,788,888.00
+Average Salary: $258,947,222.00
+
+--- Department-wise Summary ---
+Department: ai (Employees: 2, Avg Salary: $16,783,333.00)
+Department: AI (Employees: 2, Avg Salary: $501,111,111.00)
+-------------------------------
